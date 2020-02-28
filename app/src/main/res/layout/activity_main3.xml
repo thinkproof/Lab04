@@ -62,7 +62,7 @@
         android:id="@+id/button"
         android:layout_width="310dp"
         android:layout_height="90dp"
-        android:text="Bottom"
+        android:text="Button"
         android:gravity="center"
         app:layout_constraintTop_toTopOf="@id/horz_guideline"
         app:layout_constraintLeft_toLeftOf="@id/vert_guideline" />
