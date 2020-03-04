@@ -35,6 +35,7 @@
         android:layout_height="90dp"
         android:text="View"
         android:gravity="center"
+        android:background="#f8f8ff"
         app:layout_constraintTop_toTopOf="@id/horz2_guideline"
         app:layout_constraintLeft_toLeftOf="@id/vert_guideline"
         app:layout_constraintRight_toRightOf="parent" />
@@ -45,6 +46,7 @@
         android:layout_height="90dp"
         android:text="View"
         android:gravity="center"
+        android:background="#f8f8ff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="@id/vert_guideline"
         app:layout_constraintRight_toRightOf="parent" />
@@ -55,6 +57,7 @@
         android:layout_height="90dp"
         android:text="TextView"
         android:gravity="center"
+        android:background="#f8f8ff"
         app:layout_constraintBottom_toBottomOf="@id/horz_guideline"
         app:layout_constraintLeft_toLeftOf="@id/vert_guideline" />
 
